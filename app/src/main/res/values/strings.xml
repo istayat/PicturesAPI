@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PicturesAPI</string>
+    <string name="description">Nearby Places!</string>
+    <string name="key" templateMergeStrategy="preserve" translatable="false">5800ea0653ff41cc8e8bb6e816539f7b</string>
+</resources>
